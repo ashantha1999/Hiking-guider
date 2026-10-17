@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Hiking Guider",
+    "slug": "hiking-guider",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {"backgroundColor": "#0D2B22"},
+    "android": {"package": "com.hikingguider.srilanka"},
+    "ios": {"supportsTablet": true},
+    "plugins": ["expo-font"]
+  }
+}
